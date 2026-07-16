@@ -17,7 +17,7 @@ Con todo eso arma un score de 0 a 100 y un veredicto: Seguro, Sospechoso o Malic
 ## Stack
 
 - Backend: Python + FastAPI
-- Frontend: Next.js + TypeScript + Tailwind
+- Frontend: Next.js + TypeScript + CSS + Tailwind
 - Base de datos pensada: PostgreSQL (para cuando se agregue historial de análisis)
 
 ## Correr el proyecto
