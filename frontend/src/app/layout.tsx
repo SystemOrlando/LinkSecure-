@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "LinkSecure | Enterprise Security",
   description: "Enterprise-grade malicious link and phishing detection.",
+  // Isotipo de brakescode: LinkSecure se presenta desde el sitio del
+  // estudio, así que la pestaña lo identifica como parte de esa familia.
+  icons: { icon: "/favicon.svg" },
 };
 
 export default function RootLayout({
